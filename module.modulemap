@@ -1,5 +1,0 @@
-module Q_rsqrt_c [system] {
-  header "/usr/include/Q_rsqrt_c.h"
-  link "Q_rsqrt_C"
-  export *
-}
